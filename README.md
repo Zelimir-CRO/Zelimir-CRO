@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zelimir-CRO
+- 👋 Hi, I’m Zelimir Horvat from Croatia, 55 years old, retired Army officer, willing to learn many new things, among them, the Python language :)
 - 👀 I’m interested in many different things, but currently mostly in programming in Python language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on developing programs in Python 
